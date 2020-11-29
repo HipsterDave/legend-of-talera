@@ -1,3 +1,5 @@
+# Creator: @HipsterDave
+
 import game
 import text
 import functions
